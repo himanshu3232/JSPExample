@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(79, 79, 241);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#container{
+    background-color: whitesmoke;
+    width: 50%;
+    margin: 10% auto;
+}
+#header{
+    text-align: center;
+    font-size: 1.6rem;
+    color:darkmagenta;
+}
+#form{
+    width: max-content;
+    margin: 0.3rem auto;
+    padding: 0.5rem;
+}
+.input{
+    font-size: 1.3rem;
+    margin: 0.6rem;
+    padding: 0.6rem;
+    margin-bottom: 1rem;
+}
+.reset{
+    margin-top: -1.4rem;
+    margin-left: 14rem; 
+}
+.submit{
+    margin-left: 6rem;
+}
